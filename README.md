@@ -1,12 +1,16 @@
-# A Nintendo eShop Application made with Flutter
+# eshop
 
-## Disclaimer
-This project was only done as a way to improve my coding skills regarding Flutter. This app was made only for learning purposes and will not be published whatsoever.
+A new Flutter project.
 
-## Due shoutouts
-The reference that I used while creating this app can be found [here](https://www.behance.net/gallery/110401633/Nintendo-Shop?tracking_source=search_projects_recommended%7Cmobile%20application%20ui%20design) and I highly recommand anyone interested in Flutter to start by reproducing existing concepts as it helps learning widgets, methods and so on.
+## Getting Started
 
-## App in action
-[Here is a preview of the app](https://gyazo.com/d04f1eaff6d202c5b76c468b207e0c10)
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
